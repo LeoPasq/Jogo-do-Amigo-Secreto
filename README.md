@@ -15,4 +15,4 @@ Desafio da Alura do Jogo do Amigo Secreto
 
 # Autor
 
-**[<img loading="lazy" src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Leo Pasqualini de Andrade</sub>]
+[<img loading="lazy" src="https://avatars.githubusercontent.com/u/195818232?s=96&v=4" width=115><br><sub>Leo Pasqualini de Andrade</sub>]
