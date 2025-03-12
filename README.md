@@ -1,7 +1,7 @@
 # Jogo-do-Amigo-Secreto
 Desafio da Alura do Jogo do Amigo Secreto
 ![Imagem do Jogo do Amigo Secreto](https://github.com/LeoPasq/Jogo-do-Amigo-Secreto/blob/main/Assets/amigo-secreto.png)
-> :construction: Projeto em construção :construction:
+> :construction: Projeto realizado em março de 2025 🇧🇷:
 >
 # :hammer: Funcionalidades do projeto
 - `Funcionalidade 1`: Inclusão de nomes de amgos que serão sorteados;
@@ -10,7 +10,7 @@ Desafio da Alura do Jogo do Amigo Secreto
 - `Funcionalidade 4`: Lista de no máximo 10 amigos para sorteio;
 # 📁 Acesso ao projeto
 
-**Indique como é possível baixar ou acessar o código fonte do projeto, seja projeto inicial ou final**
+(https://github.com/LeoPasq/Jogo-do-Amigo-Secreto)
 
 # 🛠️ Abrir e rodar o projeto
 
