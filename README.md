@@ -1,7 +1,7 @@
 # Jogo-do-Amigo-Secreto
 Desafio da Alura do Jogo do Amigo Secreto
 ![Imagem do Jogo do Amigo Secreto](https://github.com/LeoPasq/Jogo-do-Amigo-Secreto/blob/main/Assets/tela-jogo.png)
-> :construction: Projeto realizado em março de 2025 :🇧🇷:
+> :construction: Projeto realizado em março de 2025 🧠 🥇 🇧🇷
 >
 # :hammer: Funcionalidades do projeto
 - `Funcionalidade 1`: Inclusão de nomes de amgos que serão sorteados;
@@ -15,6 +15,6 @@ Desafio da Alura do Jogo do Amigo Secreto
 
 # 🛠️ Abrir e rodar o projeto
 
-# Autor
+# Autor 🧠
 
 <img loading="lazy" src="https://avatars.githubusercontent.com/u/195818232?s=96&v=4" width=115><br><sub>Leo Pasqualini de Andrade</sub>
