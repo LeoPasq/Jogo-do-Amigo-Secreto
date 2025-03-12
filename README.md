@@ -5,8 +5,9 @@ Desafio da Alura do Jogo do Amigo Secreto
 >
 # :hammer: Funcionalidades do projeto
 - `Funcionalidade 1`: Inclusão de nomes de amgos que serão sorteados;
-- `Funcionalidade 2`: Lista dos nomes dos amigos incluídos 
-- `Funcionalidade 3`: Sorteio do Amigo Secreto da lista de incluídos
+- `Funcionalidade 2`: Lista dos nomes dos amigos incluídos; 
+- `Funcionalidade 3`: Sorteio do Amigo Secreto da lista de incluídos;
+- `Funcionalidade 4`: Lista de no máximo 10 amigos para sorteio;
 # 📁 Acesso ao projeto
 
 **Indique como é possível baixar ou acessar o código fonte do projeto, seja projeto inicial ou final**
