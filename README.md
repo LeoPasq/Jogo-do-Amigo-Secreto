@@ -15,7 +15,7 @@ Desafio da Alura do Jogo do Amigo Secreto
 (https://github.com/LeoPasq/Jogo-do-Amigo-Secreto)
 
 # 🛠️ Abrir e rodar o projeto
-(https://jogo-do-amigo-secreto-snowy.vercel.app/)
+(https://jogo-amigo-secreto-gray.vercel.app/)
 
 # Autor 🧠
 
